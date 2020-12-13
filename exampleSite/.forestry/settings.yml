@@ -19,11 +19,6 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/contact
-  label: Contact
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content
   label: All Pages
   create: all
